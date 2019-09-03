@@ -8,4 +8,7 @@ it('renders without crashing', () => {
 =======
   const div = document.createElement('div');
   ReactDOM.render(<App />, div);
+<<<<<<< HEAD
 >>>>>>> 3b56ea852b113c2445de74d12f816822df5791ec
+=======
+>>>>>>> 3b56ea8... edit
